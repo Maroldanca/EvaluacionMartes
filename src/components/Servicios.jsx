@@ -1,4 +1,5 @@
 import "./Servicios.jsx";
+import "./Servicios.css"
 const Servicios = () => {
   return (
     <section className="main">
